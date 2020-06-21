@@ -1,0 +1,7 @@
+ridwan resolusi
+-Memahami HTML
+-Memahami CSS
+-Memahami Javascript
+-Belajar Database
+-Belajar PHP 
+-Belajar Framework PHP
