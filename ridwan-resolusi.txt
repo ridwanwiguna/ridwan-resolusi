@@ -5,3 +5,4 @@ ridwan resolusi
 -Belajar Database
 -Belajar PHP 
 -Belajar Framework PHP
+-membuat wbesite pribadi
