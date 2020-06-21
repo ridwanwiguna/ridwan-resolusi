@@ -5,4 +5,5 @@ ridwan resolusi
 -Belajar Database
 -Belajar PHP 
 -Belajar Framework PHP
+-membuat banyak portfolio
 -membuat wbesite pribadi
